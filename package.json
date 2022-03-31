@@ -1,6 +1,6 @@
 {
-  "homepage":"ttp://zacherymorgan.github.io/notes-app",
-  "name": "notes-app",
+  "homepage":"ttp://zacherymorgan.github.io/React-Notes-App",
+  "name": "react-notes-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
