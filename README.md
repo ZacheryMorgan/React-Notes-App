@@ -2,10 +2,16 @@
 
 First full React project, focused on functionality over design.
 
-# Live View
+## Live View
+[Notes App](https://zacherymorgan.github.io/notes-app/)
 
-https://zacherymorgan.github.io/notes-app/
+## Features
 
-# TODO
+* LocalStorage
+* React
+* Delete
+* Pushes current edited note to top
+
+## TODO
 
 Responsiveness, only works on desktop
