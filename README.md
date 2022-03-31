@@ -3,7 +3,7 @@
 First full React project, focused on functionality over design.
 
 ## Live View
-[Notes App](https://zacherymorgan.github.io/notes-app/)
+[Notes App](https://zacherymorgan.github.io/React-Notes-App/)
 
 ## Features
 
